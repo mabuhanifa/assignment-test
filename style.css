@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    padding-left: 15px;
+}
+
+span {
+    color: orange;
+}
+
+.b-left {
+    border-left: 5px solid tomato;
+    font-family: "Merriweather", serif;
+}
+
+.mission-title {
+    display: flex;
+    margin-top: 50px;
+}
+
+.half-width {
+    width: 40%;
+    margin: 20px 80px;
+    padding: 0px 10px;
+}
+
+#my-img {
+    width: 100%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 4px;
+}
+
+p {
+    color: dimgray;
+    margin: 30px 0px;
+}
+
+.mission-vision-goals {
+    display: flex;
+    margin: 30px 80px;
+}
+
+.mission {
+    background-color: rgb(231, 249, 255);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 25px;
+}
+
+.vision {
+    background-color: rgb(255, 237, 240);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 25px;
+}
+
+.goals {
+    background-color: rgb(250, 250, 226);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 25px;
+}
+
+.t-align {
+    text-align: center;
+    font-size: 40px;
+}
+
+.mission-vision-goals img {
+    width: 30%;
+}
+
+.dev-section {
+    display: flex;
+    margin: 70px 90px;
+    background-image: url(/images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.dev-img img {
+    width: 100%;
+}
+
+.dev-img {
+    margin-right: 50px;
+}
+
+.global-community {
+    display: flex;
+    margin: 70px 90px;
+}
+
+.global-community img {
+    width: 100%;
+}
+
+.p-hero {
+    margin: 70px 90px;
+    background-image: url(/images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.fun {
+    font-size: 40px;
+    text-align: left;
+}
+
+.hero-content {
+    display: flex;
+}
+
+.hero-writing {
+    margin: 50px 70px;
+}
+
+footer {
+    background-color: rgb(15, 14, 14);
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.footer-p {
+    color: white;
+    font-style: italic;
+    font: italic;
+    font-size: 30px;
+    font-family: "Merriweather", serif;
+}
