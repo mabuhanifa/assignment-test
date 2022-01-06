@@ -84,7 +84,7 @@ p {
 .dev-section {
     display: flex;
     margin: 70px 90px;
-    background-image: url(/images/shapes/shape-4.png);
+    background-image: url(./images/shapes/shape-4.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -108,7 +108,7 @@ p {
 
 .p-hero {
     margin: 70px 90px;
-    background-image: url(/images/shapes/shape-3.png);
+    background-image: url(./images/shapes/shape-3.png);
     background-repeat: no-repeat;
     background-position: left;
 }
